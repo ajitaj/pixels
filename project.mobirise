@@ -21,14 +21,14 @@
       }
     },
     "versionFirst": "3.10",
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "3.10",
     "publishType": "github",
     "favicon": "@PROJECT_PATH@/assets/images/logo-footer-128x43-77.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "publishPath": ""
+    "publishPath": "file:///E:/website/pixel"
   },
   "pages": {
     "index.html": {
@@ -219,89 +219,67 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT PIXELS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">COURSE OFFERS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">VISUAL EFFECTS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">DIGITAL IMAGING FOR FILM AND TELEVISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUKE FOR COMPOSITORS </a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">ANIMATION</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">INTERNATIONAL ANIMATION CERTIFICATE-3DMAYA </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ADVANCED MODELING AND ANIMATION IN 3D MAYA  </a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">GAMING</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GAME DEVELOPMENT IN UNITY3D</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">ARCHITECTURAL&nbsp;VIZUALIZATION<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ACTION MAX(3D MAX Crash Course)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3D ARCHITECTURAL VISUALIZATION THROUGH 3DS MAX</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">ANIMATION FOR KIDS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">KIDS AND YOUNG ANIMATORS COURSES</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">INSTRUCTORS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CORPORATE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CORPORATE TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CORPORATE PARTNERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT PIXELS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">COURSE OFFERED</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">VISUAL EFFECTS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">DIGITAL IMAGING FOR FILM AND TELEVISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUKE FOR COMPOSITORS </a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">ANIMATION</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">INTERNATIONAL ANIMATION CERTIFICATE-3DMAYA </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ADVANCED MODELING AND ANIMATION IN 3D MAYA  </a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">GAMING</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GAME DEVELOPMENT IN UNITY3D</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">ARCHITECTURAL&nbsp;VIZUALIZATION<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ACTION MAX(3D MAX Crash Course)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3D ARCHITECTURAL VISUALIZATION THROUGH 3DS MAX</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">ANIMATION FOR KIDS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">KIDS AND YOUNG ANIMATORS COURSES</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INSTRUCTORS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CORPORATE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CORPORATE TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CORPORATE PARTNERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "alias": "wowslider",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "wowslider",
+          "_name": "slider",
           "_params": {
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
             "slides": [
               {
-                "src": "@PROJECT_PATH@/assets/images/homepage-banner-01-2000x604-21.jpg",
-                "link": false,
-                "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/homepage-banner-01-2000x604-21-1600x900-88.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/homepage-banner-01-2000x604-21-85x48-51.jpg",
-                "active": true
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "FULL SCREEN SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "src": "@PROJECT_PATH@/assets/images/homepage-banner-1-2000x604-63.jpg",
-                "active": false,
-                "link": false,
-                "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/homepage-banner-1-2000x604-63-1600x900-91.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/homepage-banner-1-2000x604-63-85x48-97.jpg"
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "src": "@PROJECT_PATH@/assets/images/homepage-banner-02-2000x604-0.jpg",
                 "active": false,
-                "link": false,
-                "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/homepage-banner-02-2000x604-0-1600x900-10.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/homepage-banner-02-2000x604-0-85x48-91.jpg"
-              },
-              {
-                "src": "@PROJECT_PATH@/assets/images/homepage-banner-2-2000x604-35.jpg",
-                "active": false,
-                "link": false,
-                "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/homepage-banner-2-2000x604-35-1600x900-56.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/homepage-banner-2-2000x604-35-85x48-31.jpg"
-              },
-              {
-                "src": "@PROJECT_PATH@/assets/images/homepage-kids-banner-2000x604-58.jpg",
-                "active": false,
-                "link": false,
-                "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/homepage-kids-banner-2000x604-58-1600x900-81.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/homepage-kids-banner-2000x604-58-85x48-33.jpg"
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "theme": "elegant",
-            "bgColor": "#ffffff",
-            "animType": "blur",
-            "autoplay": true,
-            "paddingTop": 0,
-            "paddingBottom": 0,
             "fullScreen": true,
-            "showBullets": false,
-            "timeout": 2,
-            "duration": 2,
-            "height": "576",
-            "width": "1024",
-            "responsive": "2",
-            "showCaptions": false,
-            "captionsEffect": "slide",
-            "hideControls": false
+            "bgColor": "#fff",
+            "showBullets": true
           },
-          "_anchor": "wowslider-5",
+          "_anchor": "slider-6",
           "articleLayout": false
         }
       ]
