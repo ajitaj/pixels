@@ -731,3 +731,20 @@ h6,
 #extMenu1-3 .innerPhone:hover {
   color: #c0a375;
 }
+#msg-box8-8 .mbr-section-title,
+#msg-box8-8 p {
+  color: #fff;
+}
+#msg-box8-8 .mbr-section-title {
+  color: #000000;
+  font-size: 18px;
+}
+#msg-box8-8 .lead P {
+  color: #000000;
+}
+#testimonials3-e .mbr-section-title {
+  color: #000000;
+}
+#testimonials3-e .mbr-author-name {
+  color: #ccc;
+}
