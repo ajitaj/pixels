@@ -23,7 +23,12 @@
     "versionFirst": "3.10",
     "uniqCompNum": 5,
     "versionPublish": "3.10",
-    "publishType": "github"
+    "publishType": "github",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-footer-128x43-77.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "publishPath": ""
   },
   "pages": {
     "index.html": {
