@@ -138,46 +138,54 @@
           "email": "info@pixelsacademy.com",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "",
+              "linkInNewWindow": false,
               "name": "facebook",
-              "link": "https://mobirise.com",
+              "family": "socicon",
+              "active": true,
+              "link": "#",
               "size": 0,
               "color": "#ffffff",
-              "family": "socicon"
+              "newWindow": false
             }
           },
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "",
+              "linkInNewWindow": false,
               "name": "twitter",
-              "link": "https://mobirise.com",
+              "family": "socicon",
+              "active": true,
+              "link": "#",
               "size": 0,
               "color": "#ffffff",
-              "family": "socicon"
+              "newWindow": false
             }
           },
           "media5": {
             "iconFont": {
-              "active": true,
               "class": "",
+              "linkInNewWindow": false,
               "name": "instagram",
-              "link": "https://mobirise.com",
+              "family": "socicon",
+              "active": true,
+              "link": "#",
               "size": 0,
               "color": "#ffffff",
-              "family": "socicon"
+              "newWindow": false
             }
           },
           "media6": {
             "iconFont": {
-              "active": true,
               "class": "",
+              "linkInNewWindow": false,
               "name": "behance",
-              "link": "https://mobirise.com",
+              "family": "socicon",
+              "active": true,
+              "link": "#",
               "size": 0,
               "color": "#ffffff",
-              "family": "socicon"
+              "newWindow": false
             }
           },
           "media7": {
@@ -219,7 +227,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT PIXELS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">COURSE OFFERED</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">VISUAL EFFECTS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">DIGITAL IMAGING FOR FILM AND TELEVISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUKE FOR COMPOSITORS </a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">ANIMATION</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">INTERNATIONAL ANIMATION CERTIFICATE-3DMAYA </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ADVANCED MODELING AND ANIMATION IN 3D MAYA  </a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">GAMING</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GAME DEVELOPMENT IN UNITY3D</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">ARCHITECTURAL&nbsp;VIZUALIZATION<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ACTION MAX(3D MAX Crash Course)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3D ARCHITECTURAL VISUALIZATION THROUGH 3DS MAX</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">ANIMATION FOR KIDS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">KIDS AND YOUNG ANIMATORS COURSES</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INSTRUCTORS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CORPORATE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CORPORATE TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CORPORATE PARTNERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\">ABOUT PIXELS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">COURSE OFFERED</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VISUAL EFFECTS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">DIGITAL IMAGING FOR FILM AND TELEVISION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUKE FOR COMPOSITORS </a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">ANIMATION</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">INTERNATIONAL ANIMATION CERTIFICATE-3DMAYA </a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ADVANCED MODELING AND ANIMATION IN 3D MAYA  </a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">GAMING</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GAME DEVELOPMENT IN UNITY3D</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">ARCHITECTURAL&nbsp;VIZUALIZATION<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ACTION MAX(3D MAX Crash Course)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">3D ARCHITECTURAL VISUALIZATION THROUGH 3DS MAX</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">ANIMATION FOR KIDS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">KIDS AND YOUNG ANIMATORS COURSES</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">INSTRUCTORS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CORPORATE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CORPORATE TRAINING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CORPORATE PARTNERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">JOBS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -358,13 +366,17 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face5.png",
+              "src": "@PROJECT_PATH@/assets/images/iac-1-600x500-38.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "#",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title1": "William Smith",
+          "title1": "<span style=\"font-weight: normal;\">IAC - INTERNATIONAL ANIMATION CERTIFICATE</span>",
           "subtitle1": "Programmer",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "media1_1": {
@@ -413,13 +425,17 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face1.png",
+              "src": "@PROJECT_PATH@/assets/images/dift-600x500-61.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "#",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title2": "Emma Jones",
+          "title2": "<span style=\"font-weight: normal;\">DIFT-DIGITAL IMAGING FOR FILM AND TELEVISION</span>",
           "subtitle2": "SEO",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "media2_1": {
@@ -468,13 +484,17 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face6.png",
+              "src": "@PROJECT_PATH@/assets/images/nfc-600x498-93.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "#",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title3": "Michael Taylor",
+          "title3": "<span style=\"font-weight: normal;\">NFC - NUKE FOR COMPOSITORS</span>",
           "subtitle3": "Manager",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "media3_1": {
@@ -523,13 +543,17 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face2.png",
+              "src": "@PROJECT_PATH@/assets/images/gdiu-2-600x500-57.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "#",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title4": "Emily Brown",
+          "title4": "<span style=\"font-weight: normal;\">GDIU - GAME DEVELOPMENT IN UNITY 3D</span>",
           "subtitle4": "Reception",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "media4_1": {
@@ -685,6 +709,11 @@
               "color": "#000",
               "family": "socicon"
             }
+          },
+          "_styles": {
+            "H4": {
+              "font-size": "13px"
+            }
           }
         },
         {
@@ -696,7 +725,7 @@
           "_anchor": "extFeatures9-b",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
@@ -722,13 +751,17 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face5.png",
+              "src": "@PROJECT_PATH@/assets/images/actionmax-600x498-34.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "#",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title1": "William Smith",
+          "title1": "<span style=\"font-weight: normal;\">ACTION MAX - 3DS MAX CRASH COURSE</span>",
           "subtitle1": "Programmer",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "media1_1": {
@@ -777,13 +810,17 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face1.png",
+              "src": "@PROJECT_PATH@/assets/images/avtm-600x498-80.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "#",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title2": "Emma Jones",
+          "title2": "<span style=\"font-weight: normal;\">AVTM - 3D ARCHITECTURAL VISUALISATION THROUGH 3DS MAX</span>",
           "subtitle2": "SEO",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "media2_1": {
@@ -832,13 +869,17 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face6.png",
+              "src": "@PROJECT_PATH@/assets/images/amam-600x500-81.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "#",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title3": "Michael Taylor",
+          "title3": "<span style=\"font-weight: normal;\">AMAM - ADVANCED MODELING AND ANIMATION IN MAYA</span>",
           "subtitle3": "Manager",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "media3_1": {
@@ -887,13 +928,17 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face2.png",
+              "src": "@PROJECT_PATH@/assets/images/ak-2-600x500-19.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "#",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title4": "Emily Brown",
+          "title4": "<span style=\"font-weight: normal;\">AK - ANIMATION FOR KIDS</span>",
           "subtitle4": "Reception",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "media4_1": {
@@ -1049,6 +1094,11 @@
               "color": "#000",
               "family": "socicon"
             }
+          },
+          "_styles": {
+            "SPAN": {
+              "font-size": "13px"
+            }
           }
         },
         {
@@ -1067,74 +1117,94 @@
           "_name": "testimonials3",
           "testimonial": [
             {
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "<p>“Pixels Academy is awesome, with workshop based training and teaching by professionals from the industry made me learn best of visual effects. Thanks to Pixels Academy for placing me in Firefly Creative Studios. 100% recommended for people who wants to have a career and placement in the field of animation and vfx. ”</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/maheshwar-150x160-78.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "Abanoub S.",
-              "authorBio": "User"
+              "authorName": "Maheshwar",
+              "authorBio": "January 2015<br><br>"
             },
             {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "<p>“At Pixels Academy I learned the core levels of visual effects in a very short time. I have been trained by VFX Supervisors from the industry who taught me the best techniques in vfx. I am very happy to learn from Pixels Academy, they placed me in Firefly Creative Studios with good salary and now I am working on big projects. Pixels Academy is the best.”</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/charitha-150x160-53.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "Suffian A.",
-              "authorBio": "User"
+              "authorName": "Charitha",
+              "authorBio": "January 2015"
             },
             {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "text": "<p>“ Pixels Academy gave me a great opportunity to broaden my knowledge with International standard. My tutor has always made it sure that I am comfortable and progressing well in each and every class. Infrastructure was always maintained, neat &amp; clean and staff was really friendly. Within a month of course duration I learnt so much techincally, and I am sure that with this strong basics I will excel in my career. Thank you Pixels Academy.”</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/nikita-150x160-34.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "Jhollman C.",
-              "authorBio": "User"
+              "authorName": "Nikita Matta",
+              "authorBio": "April, 2015"
             },
             {
-              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "text": "<p>“At Pixels I had a very good experience. Classes were interactive and were taught in interesting manner. Details were taught and all the doubts were cleared during classes. I am indeed very happy to learn this course. Timings arew very flexible and course content and structure was designed very professionally. Overall I had a very good experience in Pixels Academy.”</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/veda-shree-150x160-5.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "John Smith",
-              "authorBio": "Developer"
+              "authorName": "Nadendla Vedashree",
+              "authorBio": "April, 2015<br>"
             },
             {
-              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "text": "<p>“ Hello,&nbsp;<span style=\"font-size: 1.125rem; line-height: 2;\">I am Santosh Kumar,&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">And this is my experience over Pixels Academy. I have joined the institution as a normal guy, with zero knowledge about Visual Effects world, as my course started I consiquently started learling new things, new concepts in an entirely different field. Pixels Academy has provided me the best knowledge and skill to step in a Film Industry. My teacher Vikash Sir as very kind and intellect in thoughts made me learn things much quicker even apart from my thought. The facilities and Faculties in the institution is very good. And special thanks for \"Ikram sir\" for pushing me with his words, that really powers my spirit to learn more and learn quick.&nbsp;</span></p><p>Thanking you \"Pixels Academy.”</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/santosh-150x160-10.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "John Smith",
-              "authorBio": "Developer"
+              "authorName": "G. Santosh Kumar",
+              "authorBio": "April, 2015"
             }
           ],
           "_anchor": "testimonials3-e",
@@ -1175,9 +1245,12 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1.png",
-                    "link": "https://mobirise.com",
-                    "active": true
+                    "src": "@PROJECT_PATH@/assets/images/foundary-logo-top-100x100-11.png",
+                    "link": "#",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -1185,9 +1258,12 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2.png",
-                    "link": "https://mobirise.com",
-                    "active": true
+                    "src": "@PROJECT_PATH@/assets/images/nukex-logo-100x100-3.png",
+                    "link": "#",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -1195,9 +1271,12 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
-                    "link": "https://mobirise.com",
-                    "active": true
+                    "src": "@PROJECT_PATH@/assets/images/hiero-logo-100x100-84.png",
+                    "link": "#",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -1205,9 +1284,12 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4.png",
-                    "link": "https://mobirise.com",
-                    "active": true
+                    "src": "@PROJECT_PATH@/assets/images/mari-logo-100x100-25.png",
+                    "link": "#",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -1215,9 +1297,25 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
-                    "link": "https://mobirise.com",
-                    "active": true
+                    "src": "@PROJECT_PATH@/assets/images/logoautodesk-100x100-37.png",
+                    "link": "#",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/maya2014-100x100-6.png",
+                    "link": "#",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               },
@@ -1225,9 +1323,12 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
-                    "link": "https://mobirise.com",
-                    "active": true
+                    "src": "@PROJECT_PATH@/assets/images/max-100x100-73.png",
+                    "link": "#",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 }
               }
@@ -1247,7 +1348,7 @@
             "showTitle": false,
             "showSubtitle": false,
             "showBullets": true,
-            "visibleSlides": "6",
+            "visibleSlides": "5",
             "showArrows": true
           },
           "_anchor": "extTestimonials5-f",
@@ -1352,7 +1453,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Message2Student."
+          "text": "Copyright (c) 2016 Pixels Academy."
         }
       ]
     }
