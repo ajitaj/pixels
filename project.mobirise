@@ -50,13 +50,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -68,16 +68,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -91,6 +91,9 @@
             },
             ".innerEmail:hover, .innerPhone:hover": {
               "color": "@primaryColor"
+            },
+            "SPAN": {
+              "color": "#000000"
             }
           },
           "alias": "mobirise3-blocks/components",
@@ -100,11 +103,11 @@
           "_name": "extMenu1",
           "_anchor": "extMenu1-3",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#ffffff",
             "socialButtons": "4",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -115,24 +118,27 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "fa",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
               "name": "phone",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff",
-              "family": "FontAwesome"
+              "color": "#000000"
             }
           },
           "phone": "+91 40 4020 6772 / 7032676191",
           "media2": {
             "iconFont": {
-              "active": true,
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
               "name": "mail",
+              "family": "linecons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff",
-              "family": "linecons"
+              "color": "#000000"
             }
           },
           "email": "info@pixelsacademy.com",
@@ -145,7 +151,7 @@
               "active": true,
               "link": "#",
               "size": 0,
-              "color": "#ffffff",
+              "color": "#000000",
               "newWindow": false
             }
           },
@@ -158,7 +164,7 @@
               "active": true,
               "link": "#",
               "size": 0,
-              "color": "#ffffff",
+              "color": "#000000",
               "newWindow": false
             }
           },
@@ -171,7 +177,7 @@
               "active": true,
               "link": "#",
               "size": 0,
-              "color": "#ffffff",
+              "color": "#000000",
               "newWindow": false
             }
           },
@@ -179,12 +185,12 @@
             "iconFont": {
               "class": "",
               "linkInNewWindow": false,
-              "name": "behance",
-              "family": "socicon",
+              "name": "linkedin-2",
+              "family": "iconsMind",
               "active": true,
               "link": "#",
               "size": 0,
-              "color": "#ffffff",
+              "color": "#000000",
               "newWindow": false
             }
           },
@@ -376,7 +382,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "<span style=\"font-weight: normal;\">IAC - INTERNATIONAL ANIMATION CERTIFICATE</span>",
+          "title1": "<span style=\"font-weight: normal;\"><a href=\"#\" class=\"text-black\">IAC - INTERNATIONAL ANIMATION CERTIFICATE</a></span>",
           "subtitle1": "Programmer",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "media1_1": {

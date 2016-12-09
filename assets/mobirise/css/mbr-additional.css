@@ -673,15 +673,15 @@ h6,
   color: #ffffff;
 }
 #extMenu1-3 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #extMenu1-3 .close-icon::before,
 #extMenu1-3 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #extMenu1-3 .link,
 #extMenu1-3 .dropdown-item {
-  color: #ffffff;
+  color: #000000;
 }
 #extMenu1-3 .link {
   font-size: 0.75rem;
@@ -698,22 +698,22 @@ h6,
 }
 #extMenu1-3 .link[aria-expanded="true"],
 #extMenu1-3 .dropdown-menu {
-  background: #0e0e0e;
+  background: #e6e6e6;
 }
 #extMenu1-3 .nav-dropdown-sm .link:focus,
 #extMenu1-3 .nav-dropdown-sm .link:hover,
 #extMenu1-3 .nav-dropdown-sm .dropdown-item:focus,
 #extMenu1-3 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #f7f7f7!important;
 }
 #extMenu1-3 .navbar,
 #extMenu1-3 .nav-dropdown-sm,
 #extMenu1-3 .nav-dropdown-sm .link[aria-expanded="true"],
 #extMenu1-3 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #ffffff;
 }
 #extMenu1-3 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #extMenu1-3 .bg-color.transparent.opened .link {
@@ -730,6 +730,9 @@ h6,
 #extMenu1-3 .innerEmail:hover,
 #extMenu1-3 .innerPhone:hover {
   color: #c0a375;
+}
+#extMenu1-3 SPAN {
+  color: #000000;
 }
 #msg-box8-8 .mbr-section-title,
 #msg-box8-8 p {
