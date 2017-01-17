@@ -1883,7 +1883,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1894,7 +1894,7 @@
             "overlayColor": "#151515",
             "showTitle": true
           },
-          "title": "Frequently asked questions<div>Got a Querry?</div><div>Our Team of Experts are ready to help you.</div>",
+          "title": "Frequently Asked Questions<div><br></div>",
           "title1": "<a role=\"button\" class=\"text-info\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-1k\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Why should I attend the 'Open House' at Pixels Academy?</a>",
           "text1": "<p>A right choice taken now can make a huge difference in your career later on. And making the right decision can be very crucial to further your career. At Pixels, we make sure that you have the right information you need to make the choice that's right for you. You are at the right place at the right time for the right training. Get the chance to see our state-of-the-art facilities first hand. Meet and interact with our experienced faculty members and instructors.</p><p><br></p><p>Learn more about the VFX | Animation | Gaming courses that you are interested in.</p><p><br></p><p>Learn about the payment options.</p><p><br></p><p>Get information about the timings/dates for our new batches.</p>",
           "title2": "<a role=\"button\" class=\"text-info\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-1k\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">I am a beginner and am interested in a career in animation. How should I go about it?</a>",
@@ -1931,7 +1931,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1970,7 +1970,7 @@
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
