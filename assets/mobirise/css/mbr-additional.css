@@ -842,6 +842,13 @@ h6,
 #msg-box8-o .lead P {
   color: #000000;
 }
+#extToggle1-1k DIV {
+  font-size: 12px;
+}
+#extToggle1-1k H1 {
+  color: #3d8eb9;
+  text-align: center;
+}
 #extMenu1-y .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -910,35 +917,6 @@ h6,
 #extMenu1-y SPAN {
   color: #000000;
 }
-#msg-box8-10 .mbr-section-title,
-#msg-box8-10 p {
-  color: #fff;
-}
-#msg-box8-10 .mbr-section-title {
-  color: #000000;
-  font-size: 18px;
-}
-#msg-box8-10 .lead P {
-  color: #000000;
-}
-#extFeatures9-11 H4 {
-  font-size: 13px;
-}
-#extFeatures9-12 SPAN {
-  font-size: 13px;
-}
-#testimonials3-13 .mbr-section-title {
-  color: #000000;
-}
-#testimonials3-13 .mbr-author-name {
-  color: #ccc;
-}
 #form1-16 .form-control-label {
   color: #232323;
-}
-#custom-html-17 H4 {
-  font-size: 13px;
-}
-#custom-html-18 H4 {
-  font-size: 13px;
 }
