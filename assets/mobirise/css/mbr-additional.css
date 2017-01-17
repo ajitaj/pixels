@@ -666,6 +666,9 @@ h6,
 .extProgressBar5 .progress-primary[value]::-ms-fill {
   color: #c0a375;
 }
+.theme-border {
+  border: 1px solid #c0a375;
+}
 #extMenu1-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -684,11 +687,11 @@ h6,
   color: #000000;
 }
 #extMenu1-3 .link {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
 }
 #extMenu1-3 .dropdown-item,
 #extMenu1-3 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.758rem;
 }
 #extMenu1-3 .link:hover,
 #extMenu1-3 .dropdown-item:hover,
@@ -759,4 +762,183 @@ h6,
 }
 #form1-k .form-control-label {
   color: #232323;
+}
+#extMenu1-m .hide-buttons .nav-btn {
+  display: none !important;
+}
+#extMenu1-m .navbar-caption {
+  color: #ffffff;
+}
+#extMenu1-m .navbar-toggler {
+  color: #000000;
+}
+#extMenu1-m .close-icon::before,
+#extMenu1-m .close-icon::after {
+  background-color: #000000;
+}
+#extMenu1-m .link,
+#extMenu1-m .dropdown-item {
+  color: #000000;
+}
+#extMenu1-m .link {
+  font-size: 0.75rem;
+}
+#extMenu1-m .dropdown-item,
+#extMenu1-m .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#extMenu1-m .link:hover,
+#extMenu1-m .dropdown-item:hover,
+#extMenu1-m .link:focus,
+#extMenu1-m .dropdown-item:focus {
+  color: #c0a375;
+}
+#extMenu1-m .link[aria-expanded="true"],
+#extMenu1-m .dropdown-menu {
+  background: #e6e6e6;
+}
+#extMenu1-m .nav-dropdown-sm .link:focus,
+#extMenu1-m .nav-dropdown-sm .link:hover,
+#extMenu1-m .nav-dropdown-sm .dropdown-item:focus,
+#extMenu1-m .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#extMenu1-m .navbar,
+#extMenu1-m .nav-dropdown-sm,
+#extMenu1-m .nav-dropdown-sm .link[aria-expanded="true"],
+#extMenu1-m .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#extMenu1-m .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#extMenu1-m .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#extMenu1-m .bg-color.transparent.opened .link:hover,
+#extMenu1-m .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#extMenu1-m .link[aria-expanded="true"],
+#extMenu1-m .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#extMenu1-m .innerEmail:hover,
+#extMenu1-m .innerPhone:hover {
+  color: #c0a375;
+}
+#extMenu1-m SPAN {
+  color: #000000;
+}
+#msg-box8-o .mbr-section-title,
+#msg-box8-o p {
+  color: #fff;
+}
+#msg-box8-o .mbr-section-title {
+  color: #000000;
+  font-size: 18px;
+}
+#msg-box8-o .lead P {
+  color: #000000;
+}
+#extMenu1-y .hide-buttons .nav-btn {
+  display: none !important;
+}
+#extMenu1-y .navbar-caption {
+  color: #ffffff;
+}
+#extMenu1-y .navbar-toggler {
+  color: #000000;
+}
+#extMenu1-y .close-icon::before,
+#extMenu1-y .close-icon::after {
+  background-color: #000000;
+}
+#extMenu1-y .link,
+#extMenu1-y .dropdown-item {
+  color: #000000;
+}
+#extMenu1-y .link {
+  font-size: 0.7rem;
+}
+#extMenu1-y .dropdown-item,
+#extMenu1-y .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#extMenu1-y .link:hover,
+#extMenu1-y .dropdown-item:hover,
+#extMenu1-y .link:focus,
+#extMenu1-y .dropdown-item:focus {
+  color: #c0a375;
+}
+#extMenu1-y .link[aria-expanded="true"],
+#extMenu1-y .dropdown-menu {
+  background: #e6e6e6;
+}
+#extMenu1-y .nav-dropdown-sm .link:focus,
+#extMenu1-y .nav-dropdown-sm .link:hover,
+#extMenu1-y .nav-dropdown-sm .dropdown-item:focus,
+#extMenu1-y .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#extMenu1-y .navbar,
+#extMenu1-y .nav-dropdown-sm,
+#extMenu1-y .nav-dropdown-sm .link[aria-expanded="true"],
+#extMenu1-y .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#extMenu1-y .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#extMenu1-y .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#extMenu1-y .bg-color.transparent.opened .link:hover,
+#extMenu1-y .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#extMenu1-y .link[aria-expanded="true"],
+#extMenu1-y .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#extMenu1-y .innerEmail:hover,
+#extMenu1-y .innerPhone:hover {
+  color: #c0a375;
+}
+#extMenu1-y SPAN {
+  color: #000000;
+}
+#msg-box8-10 .mbr-section-title,
+#msg-box8-10 p {
+  color: #fff;
+}
+#msg-box8-10 .mbr-section-title {
+  color: #000000;
+  font-size: 18px;
+}
+#msg-box8-10 .lead P {
+  color: #000000;
+}
+#extFeatures9-11 H4 {
+  font-size: 13px;
+}
+#extFeatures9-12 SPAN {
+  font-size: 13px;
+}
+#testimonials3-13 .mbr-section-title {
+  color: #000000;
+}
+#testimonials3-13 .mbr-author-name {
+  color: #ccc;
+}
+#form1-16 .form-control-label {
+  color: #232323;
+}
+#custom-html-17 H4 {
+  font-size: 13px;
+}
+#custom-html-18 H4 {
+  font-size: 13px;
 }
