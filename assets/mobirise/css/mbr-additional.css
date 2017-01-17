@@ -985,3 +985,29 @@ h6,
 #extMenu1-1s SPAN {
   color: #000000;
 }
+#extMsg-box1-20 P {
+  color: #000000;
+}
+#extMsg-box1-20 H3 {
+  color: #b8312f;
+  font-size: 32px;
+}
+#extMsg-box1-21 P {
+  color: #000000;
+  text-align: left;
+}
+#extMsg-box1-21 H3 {
+  color: #b8312f;
+  font-size: 32px;
+  text-align: left;
+}
+#extMsg-box1-21 B {
+  font-size: 21px;
+}
+#extMsg-box1-22 P {
+  color: #000000;
+}
+#extMsg-box1-22 H3 {
+  color: #b8312f;
+  font-size: 32px;
+}
